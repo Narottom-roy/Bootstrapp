@@ -1,0 +1,17 @@
+.hero-section{
+    height:600px;
+    background:url('./banner.jpg');
+    position: center center;
+    background-size:cover;
+    text-align: center;
+}
+
+h1{
+    padding-top:100px;
+}
+
+.icon{
+    height:70px;
+    width:70px;
+    padding-top:15px;
+}
